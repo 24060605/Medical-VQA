@@ -1,0 +1,9 @@
+# Dataset
+
+This project uses the **VQA-RAD** dataset for Medical Visual Question Answering.
+
+Due to data size and usage restrictions, the dataset is not included in this repository.
+
+Please download the dataset from the official source:
+
+- VQA-RAD (Visual Question Answering Radiology): https://www.kaggle.com/datasets/shashankshekhar1205/vqa-rad-visual-question-answering-radiology
