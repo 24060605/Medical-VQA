@@ -14,3 +14,7 @@ Medical Visual Question Answering aims to automatically answer natural language 
 ## 📊 Dataset
 - **VQA-RAD Dataset**  
   A medical visual question answering dataset consisting of radiology images paired with clinical questions and answers.
+  <img width="976" height="455" alt="image" src="https://github.com/user-attachments/assets/b5ff9020-17a9-4592-9fc6-cdf788d00814" />
+  <img width="926" height="405" alt="image" src="https://github.com/user-attachments/assets/9b3c855e-f6bb-4407-a864-8f54940395e3" />
+
+
